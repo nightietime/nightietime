@@ -23,6 +23,27 @@ body {
   color: $darkGray;
 }
 
+@font-face {
+  font-family: Futura;
+  src: url('../fonts/Futura-Bold.ttf');
+}
+
+@font-face {
+  font-family: Futura;
+  src: url('../fonts/Futura.ttf');
+}
+
+@font-face {
+  font-family: Futura;
+  src: url('../fonts/Futura-Medium.ttf');
+}
+
+
+.futura {
+  font-family: "Futura", Helvetica, sans-serif;
+  font-style: bold;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
