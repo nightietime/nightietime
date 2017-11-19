@@ -15,9 +15,25 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
+@font-face {
+  font-family: Futura;
+  src: url('../fonts/Futura-Bold.ttf');
+}
+
+@font-face {
+  font-family: Futura;
+  src: url('../fonts/Futura.ttf');
+}
+
+@font-face {
+  font-family: Futura;
+  src: url('../fonts/Futura-Medium.ttf');
+}
+
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$futura: "Futura", Helvetica, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
