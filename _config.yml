@@ -6,7 +6,7 @@
 name: Contemplations of a Nightingale
 
 # Short bio or description (displayed in the header)
-description: Your average blue birdhorse writes things longer than 140 characters.
+description: Your average blue birdhorse writes things longer than 280 characters.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Custom options
+excerpt_separator: <!--break-->
