@@ -53,7 +53,7 @@ body {
     width: 100%;
 }
 
-h1,
+
 h2,
 h3,
 h4,
@@ -71,7 +71,10 @@ h6 {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 28px;
+    line-height: 1.4;
+    color: $darkerGray;
+    font-family: $futura;
     a {
         color: inherit;
     }
@@ -233,9 +236,9 @@ img {
     margin: 0;
     color: #ffffff;
     cursor: pointer;
-    font-family: $futura;
     font-style: bold;
-    font-size: 32px;
+    line-height: 1.7;
+    font-size: 34px;
     text-shadow: 0 1px 3px rgba(0,0,0,.5);
     letter-spacing: 1px;
     a:hover {
@@ -282,8 +285,13 @@ nav {
 // .main
 //
 .posts>.post {
+    padding-top: 2em;
     padding-bottom: 2em;
     border-bottom: 1px solid $lightGray;
+}
+
+.posts>.post:first-child {
+    padding-top: 1em;
 }
 
 .posts>.post:last-child {
