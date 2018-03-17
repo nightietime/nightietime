@@ -45,4 +45,4 @@ All that said, I love her because she fought to change against all of her odds, 
 
 Because that's what makes her the great, strong pony she is.
 
-![starlight and twilight snuggling]({{"/assets/726mp4_snapshot_21.26.png" | absolute_url}})
+![starlight and twilight snuggling]({{"/images/726mp4_snapshot_21.26.png" | absolute_url}})
