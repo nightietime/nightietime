@@ -3,7 +3,7 @@ layout: post
 title: On Starlight Glimmer's Characterization
 ---
 
-*Note - this post is originally a thread tweet on my Twitter.*
+*Note - this post is originally a thread tweet on my Twitter, [available here.](https://twitter.com/NightieTime/status/974595995290943489)*
 
 I had a thought of actually explaining rationally exactly why I have been infatuated with Starlight Glimmer, and she has been a major subject of controversy in the fandom from the reception of her character. I feel the need to articulate my esteemed fondness of her, in a light where I would attempt to consider all sides of the argument to ultimately make up what I, personally, think of her as a character and how she has developed in the series. Needless to say, it's a positive outcome - and if you don't like this character, I invite you to read along, or send a tweet at me to discuss about different perspectives in approaching her characterization. 
 
