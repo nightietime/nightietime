@@ -179,7 +179,7 @@ If you have any questions, you're best off to look it up in the State Department
 ## <a name="financial"></a> Financial Discipline
 If you got here as a US citizen, green card holder, or a citizen of Canada, Bermuda, Marshall Islands, Micronesia, Palau, or someone who's familiar with temporary, nonmigrant travel to the United States, congratulations, you skipped the hardest part of the entire ordeal!
 
-However, do me a favor, and hug and congratulate anyone which has a passport from countries that are highlighted in gray from that map. Hug them, welcome them warmly, and keep them company - they have come a damn long way to get to BronyCon, and are indeed the true MVPs with how difficult it can be for some people.
+However, do me a favor, and hug and congratulate anyone who has a passport from countries that are highlighted in gray from that map. Hug them, welcome them warmly, and keep them company - they have come a damn long way to get to BronyCon, and are indeed the true MVPs with how difficult it can be for some people.
 
 ![obligatory]({{"/images/726mp4_snapshot_21.26.png" | absolute_url}})
 
