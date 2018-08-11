@@ -138,7 +138,7 @@ Letters of invitation from conventions or friends, or Affidavit of Support, **do
 I'm really, really sorry if this is very hard to take in, but I need to write this down to make sure you know exactly how hard it is to get to the United States even to visit, to avoid disappointment and to raise awareness on just how distorted the world is. 
 
 #### Don't Think Of It As A Lottery
-The US embassy will have a record of every visa attempt, the information disclosed alongside your visa application, and the outcome. Retrying again and again will cost you a lot of money and will not improve your chances, unless if your circumstances have demonstratedly changed (you've held a job for longer, you got more money, you gained more investment property and liquid capital, etc.) Otherwise, you'd just be harming your own name. 
+The United States will have a record of every visa attempt, the information disclosed alongside your visa application, and the outcome. Retrying again and again will cost you a lot of money and will not improve your chances, unless if your circumstances have demonstratedly changed (you've held a job for longer, you got more money, you gained more investment property and liquid capital, etc.) Otherwise, you'd just be harming your own name. 
 
 Oh, and don't try to lie your way to the United States. Please.
 
