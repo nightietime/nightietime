@@ -41,6 +41,8 @@ And then, click on the corresponding anchor link below that defines who you are,
 - [You have an existing US Visa of any class and will travel primarily following the purpose/class of your visa](#existing)
 - [You have no idea what I'm waffling on about](#visa)
 
+If you need to look up your country, use the map [on this Wikipedia page](https://en.wikipedia.org/wiki/Visa_policy_of_the_United_States#Visa_policy_map).
+
 ----
 
 
@@ -74,7 +76,7 @@ I'll be completely frank - as young adults, we are some of the least likely peop
 Your likeliness of getting a visitor visa is generally determined by at least one of the following conditions:
 
 - You are currently an active student of any institution, whether it is school or university, and have parental or guardian figures to support your travel
-- You have worked for at least 3-5 years in your home country, or any country where you have the rights to do so permanently
+- You have worked for at least 2 years (but most people say 3-5 years for better certainty) in your home country, or any country where you have the rights to do so permanently
 - You have heck-tons of cash, preferably in illiquid investments such as property, bonds and long term investments under your name
 - You will apply for the visa along with your parents, which in turn must satisfy the work commitment and/or financial resource requirements
 
@@ -161,7 +163,7 @@ To get an ESTA, all you have to do is simply plug in your details to the [DHS' E
 In the event that your ESTA application is somehow denied, then I regret to inform you that you [need to apply for a tourist visa.](#visa)
 
 
-### <a name="existing"></a> Existing Holders and Repeat Visitors/Temporary Migrants
+### <a name="existing"></a> Existing Holders, Repeat Visitors, and Temporary Migrants/Residents
 I will not say much about existing visa holders or ESTA holders, other than to remind you to ensure your visa and ESTA is still valid on the day that you are planning to arrive in the United States. You do not need to make sure your visa won't expire during your planned stay in the US, but that's a gray zone that would fall entirely in the hands of the US Customs and Border Protection, so if you only have limited financial resources to do this, don't risk it and renew your ESTA or visa if it is indeed bound to expire when you are in the US for the con.
 
 To the visa holders, I know there are different classes other than B1/B2 that grants multiple reasons of residing in the US, whether you are a student, temporary worker, special field of work (journalist visa being one of them), ensure that you have all the necessary documentation to back your visa when you enter. If you have held these visas before, you know better than me how it works. 
