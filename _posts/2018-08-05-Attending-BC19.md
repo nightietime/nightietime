@@ -4,7 +4,7 @@ title: Getting to BronyCon 2019 Part 1 - The Details Explained Frankly
 ---
 
 
-![Header]({{"/images/header-bc19" | absolute_url}})
+![Header]({{"/images/header-bc19.png" | absolute_url}})
 
 As some of you may have noticed in the brony community, the largest, de facto flagship convention of the fandom, entitled BronyCon, has recently announced that it will be closing its doors for the last time next year in 2019. BronyCon, the fandom's historically largest and most remarkable convention by sheer size, longetivity, and its impact towards the paradigm of the fandom itself, has stated that it will not continue in the motivation of parting with the convention at its height. It has also captured the attention of the international community far and wide to join their last sortie together next year.
 
