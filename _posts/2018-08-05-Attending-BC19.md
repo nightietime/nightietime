@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting to BronyCon 2019 Part 1 - The Details Explained Frankly
+title: Getting to BronyCon 2019 Part 1 - Your Preparations and Finances
 ---
 
 
