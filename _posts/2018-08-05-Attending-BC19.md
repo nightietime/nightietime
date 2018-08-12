@@ -24,7 +24,7 @@ Firstly, if any of the following describes your nationality/passport issuance co
 
 - [You are a US citizen or permanent resident/green card holder](#financial)
 - [You are a citizen, or a passport holder of, Canada, Bermuda, Marshall Islands, Micronesia, Palau](#financial)
-- [You have an existing US Visa of any class and will travel primarily following the purpose/class of your visa](#existing)
+- [You have an existing US Visa of any class, or an ESTA, and will travel primarily following the purpose/class of your visa](#existing)
 
 For everyone else, you should definitely read on - the next section is the most important ordeal in the entire article. 
 
@@ -38,7 +38,7 @@ And then, click on the corresponding anchor link below that defines who you are,
 
 - [Your country, or the country where your passport is issued, is highlighted in **green** on the map](#esta)
 - [Your country, or the country where your passport is issued, is highlighted **gray** on the map](#visa)
-- [You have an existing US Visa of any class and will travel primarily following the purpose/class of your visa](#existing)
+- [You have an existing US Visa of any class, or an ESTA, and will travel primarily following the purpose/class of your visa](#existing)
 - [You have no idea what I'm waffling on about](#visa)
 
 If you need to look up your country, use the map [on this Wikipedia page](https://en.wikipedia.org/wiki/Visa_policy_of_the_United_States#Visa_policy_map).
@@ -114,6 +114,8 @@ The documents that you primarily need are, but not limited to:
 
 As it says verbatim on the State Department's website, *evidence of your employment and/or your family ties may be sufficient to show the purpose of your trip and your intent to return to your home country. If you cannot cover all the costs for your trip, you may show evidence that another person will cover some or all costs for your trip.*
 
+Please note that **these are just some suggestions of documents that you should bring**, and isn't likely all that you need. Please crosscheck with the visa application document requirements postulated by the online form from the State Department, as well as any other travel or immigration tips sources.
+
 It's really tricky since you are not advised to book tickets but you are required to demonstrate your intentions in the US and your intentions to leave - here's where the itinerary, plans, and financial condition is most important. Therefore, very early on, you should definitely have an idea of your financial situation, how you will finance your visit, and how much money you'd have to support yourself during your visit. These are critical documentation that evaluates your financial decision and the seriousness of your plans.
 
 After you apply for your visa, you must pay a flat fee of 160 US dollars to process the application in the means provided on the website, and schedule an interview to your nearest US consulate or embassy. Ensure that you follow all instructions, and bring all the documents that you disclosed for the visa application.
@@ -145,7 +147,7 @@ The United States will have a record of every visa attempt, the information disc
 Oh, and don't try to lie your way to the United States. Please.
 
 #### Validity of your Visa
-Your visa lasts as long as your country's passports generally last, even if it would expire after your passport does. It is usually available for multiple entries (denoted by the M symbol under the Entry field) so you can go back to the US again and again as a tourist under that visa - you only need to apply once, and it'll be good for as many visits as you can cram in the validity of your visa, so you can go to other cons in the next few years as well with it without dealing with the whole application process again. 
+Your visa expiry date is printed on itself. It usually lasts as long as your country's passports last, even if it would expire after your passport does. It is usually available for multiple entries (denoted by the M symbol under the Entry field) so you can go back to the US again and again as a tourist under that visa - you only need to apply once, and it'll be good for as many visits as you can cram in the validity of your visa, so you can go to other cons in the next few years as well with it without dealing with the whole application process again. 
 
 A visa that is still valid, but resides on your old, expired passport, is still valid for entry to the United States, as long as it's not damaged by your local immigration office when the passport is canceled. Just make sure you carry **both** your current, valid passport and your expired passport with the visa when you travel to the US.
 
@@ -162,11 +164,10 @@ To get an ESTA, all you have to do is simply plug in your details to the [DHS' E
 
 In the event that your ESTA application is somehow denied, then I regret to inform you that you [need to apply for a tourist visa.](#visa)
 
-
 ### <a name="existing"></a> Existing Holders, Repeat Visitors, and Temporary Migrants/Residents
 I will not say much about existing visa holders or ESTA holders, other than to remind you to ensure your visa and ESTA is still valid on the day that you are planning to arrive in the United States. You do not need to make sure your visa won't expire during your planned stay in the US, but that's a gray zone that would fall entirely in the hands of the US Customs and Border Protection, so if you only have limited financial resources to do this, don't risk it and renew your ESTA or visa if it is indeed bound to expire when you are in the US for the con.
 
-To the visa holders, I know there are different classes other than B1/B2 that grants multiple reasons of residing in the US, whether you are a student, temporary worker, special field of work (journalist visa being one of them), ensure that you have all the necessary documentation to back your visa when you enter. If you have held these visas before, you know better than me how it works. 
+To the visa holders, I know there are different classes other than B1/B2 that grants multiple reasons of residing in the US, whether you are a student, temporary worker, special field of work (journalist visa being one of them), ensure that you have all the necessary documentation to back your visa when you enter. If you have held these visas before, or currently holding one, you know better than me how it works. 
 
 To the B1/B2 visa holders, your primary purpose is indeed attending a convention, but since you're not normally paid to do so, you should state that you are having a vacation in the US when you are briefly questioned at the border. Articulate nicely your intentions and you'll be fine. 
 
@@ -195,7 +196,7 @@ In general, the best practice is to look up and estimate how much it would cost 
 
 I would recommend you to schedule your financial expenditures according to which usually would be bought first before the other. This is not a strict pattern of affairs, but it gives you a very nice idea of how you are going to control the spending of your savings.
 
-To give you an illustrative example of how they work out, here's an example from [Project SEAPonyCon 2017](https://seaponycon.com/) that illustrates an example saving schedule. You should work out an estimate of your preffered flight dates and carrier (to give an idea of cost and how you should pack), accomodation, food, transport, admission to the convention itself, and any collateral or spending money that you'd like. 
+To give you an illustrative example of how they work out, here's an example from [Project SEAPonyCon 2017](https://seaponycon.com/) that illustrates an example saving schedule. You should work out an estimate of your preferred flight dates and carrier (to give an idea of cost and how you should pack), accomodation, food, transport, admission to the convention itself, and any collateral or spending money that you'd like. 
 
 If you require a visa or ESTA, I recommend preparing to pay up for that first and foremost before anything else. However, as I said before, the financial schedule/savings goal can give you a good background to reason your financial requirements and strength to apply.
 
