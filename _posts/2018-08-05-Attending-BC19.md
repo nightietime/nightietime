@@ -196,7 +196,14 @@ In general, the best practice is to look up and estimate how much it would cost 
 
 I would recommend you to schedule your financial expenditures according to which usually would be bought first before the other. This is not a strict pattern of affairs, but it gives you a very nice idea of how you are going to control the spending of your savings.
 
-To give you an illustrative example of how they work out, here's an example from [Project SEAPonyCon 2017](https://seaponycon.com/) that illustrates an example saving schedule. You should work out an estimate of your preferred flight dates and carrier (to give an idea of cost and how you should pack), accomodation, food, transport, admission to the convention itself, and any collateral or spending money that you'd like. 
+To give you an illustrative example of how they work out, here's an example from [Project SEAPonyCon 2017](https://seaponycon.com/) that illustrates an example saving schedule. The few things that you need to plan for are, but not limited to:
+
+- An estimate of your preferred flight dates and carrier (to give an idea of cost and how you should pack)
+- Accomodation
+- Spending on food, beverages, and sanitary necessities
+- Land transport 
+- Admission to the convention itself
+- Any collateral or spending money that you'd like. 
 
 If you require a visa or ESTA, I recommend preparing to pay up for that first and foremost before anything else. However, as I said before, the financial schedule/savings goal can give you a good background to reason your financial requirements and strength to apply.
 
